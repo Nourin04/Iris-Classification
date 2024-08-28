@@ -1,7 +1,5 @@
 # Bharat-Intern-Task-1
- *First Task Completed: Iris Flower Classification with Deep Learning at Bharat Intern* 
-
-I am thrilled to share that I've successfully completed my first task as an intern at Bharat Intern! The project focused on the classification of iris flowers using deep learning techniques—a foundational yet insightful challenge in the field of machine learning.
+ *First Task Completed: Iris Flower Classification with Deep Learning * 
 
 ### 🔍 *Project Overview:*
 The primary goal of this project was to accurately classify iris flowers into their respective species—Setosa, Versicolor, and Virginica—based on various features such as sepal length, sepal width, petal length, and petal width.
