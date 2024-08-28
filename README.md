@@ -21,7 +21,6 @@ Leveraging the power of *Keras* and *Scikit-learn (sklearn)*, I developed a deep
 ### 🚀 *Outcomes:*
 The results were impressive, with the model achieving a high level of accuracy in classifying the iris species. This experience not only honed my technical skills but also deepened my understanding of machine learning and its practical applications.
 
-I'm excited to continue learning and contributing to more projects during my internship at Bharat Intern. A big thank you to the team for their support and guidance!
 
 
 
