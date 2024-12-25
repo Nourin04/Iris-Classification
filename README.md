@@ -1,4 +1,4 @@
-# Bharat-Intern-Task-1 
+# Iris Flower Classification 
 
 ### 🔍 *Project Overview:*
 The primary goal of this project was to accurately classify iris flowers into their respective species—Setosa, Versicolor, and Virginica—based on various features such as sepal length, sepal width, petal length, and petal width.
